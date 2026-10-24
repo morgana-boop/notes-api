@@ -1,0 +1,1 @@
+const{DataTypes:T}=require("sequelize");module.exports=require("../database/database").define("Note",{title:{type:T.STRING,allowNull:false,validate:{notEmpty:true}},content:{type:T.TEXT,allowNull:false,defaultValue:""}});
