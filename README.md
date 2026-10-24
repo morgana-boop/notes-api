@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header&text=notes-api&fontColor=ffffff&fontSize=36" />
-</p>
 
 <p align="center"><em>Minimal REST API for notes: full CRUD on Node.js + SQLite.</em></p>
 
@@ -58,6 +55,3 @@ src/        routes / logic
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=80&section=footer" />
-</p>
